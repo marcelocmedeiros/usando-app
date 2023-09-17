@@ -101,9 +101,7 @@ Você pode me contatar através desses contatos:
 
 ---
 
-<center>
-
-Feito com 🧑‍💻 por Marcelo no Curso Navegação com React.JS da [Formação DEV](https://escola.formacao.dev/)</center>
+<p align="center">Feito com 🧑‍💻 por Marcelo no Curso Navegação com React.JS da [Formação DEV](https://escola.formacao.dev/)</p>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
